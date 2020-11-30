@@ -1,2 +1,2 @@
-# djangoproject.com-tutorial
-Django tutorial from djangoproject.com
+# Polling Application
+From djangoproject.com
